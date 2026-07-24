@@ -1,0 +1,10 @@
+[package]
+name = "dafontye"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+resvg = "0.40"
+usvg = "0.40"
+rfd = "0.14"

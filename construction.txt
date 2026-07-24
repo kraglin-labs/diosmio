@@ -1,0 +1,9 @@
+Canvas: 200 × 200
+
+Top      = 30
+Middle   = 90
+Bottom   = 150
+
+Left     = 40
+Center   = 100
+Right    = 160
